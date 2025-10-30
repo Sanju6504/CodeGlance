@@ -1,0 +1,6854 @@
+[
+  {
+    "rollno": "22501a1220",
+    "name": "Devendra",
+    "leetcode": {
+      "username": "devendra9999",
+      "data": {
+        "userContestRanking": {
+          "attendedContestsCount": 50,
+          "rating": 1700.1104399305157,
+          "globalRanking": 85586,
+          "totalParticipants": 678221,
+          "topPercentage": 12.95,
+          "badge": null
+        },
+        "userContestRankingHistory": [
+          {
+            "attended": true,
+            "rating": 1700.11,
+            "ranking": 14230,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5127,
+            "contest": {
+              "title": "Weekly Contest 441",
+              "startTime": 1742092200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1731.46,
+            "ranking": 2951,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1308,
+            "contest": {
+              "title": "Biweekly Contest 152",
+              "startTime": 1742049000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1702.802,
+            "ranking": 7924,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 385,
+            "contest": {
+              "title": "Weekly Contest 440",
+              "startTime": 1741487400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1706.486,
+            "ranking": 4716,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 179,
+            "contest": {
+              "title": "Weekly Contest 439",
+              "startTime": 1740882600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1690.791,
+            "ranking": 2241,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 503,
+            "contest": {
+              "title": "Biweekly Contest 151",
+              "startTime": 1740839400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1644.284,
+            "ranking": 7981,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 2074,
+            "contest": {
+              "title": "Weekly Contest 438",
+              "startTime": 1740277800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1639.704,
+            "ranking": 8160,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 261,
+            "contest": {
+              "title": "Weekly Contest 437",
+              "startTime": 1739673000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1636.227,
+            "ranking": 10951,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 442,
+            "contest": {
+              "title": "Biweekly Contest 150",
+              "startTime": 1739629800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1639.723,
+            "ranking": 7399,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 298,
+            "contest": {
+              "title": "Weekly Contest 436",
+              "startTime": 1739068200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1634.631,
+            "ranking": 11280,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1372,
+            "contest": {
+              "title": "Weekly Contest 435",
+              "startTime": 1738463400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1649.687,
+            "ranking": 3879,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 2650,
+            "contest": {
+              "title": "Biweekly Contest 149",
+              "startTime": 1738420200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1614.435,
+            "ranking": 8727,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 378,
+            "contest": {
+              "title": "Weekly Contest 434",
+              "startTime": 1737858600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1615.029,
+            "ranking": 4381,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 203,
+            "contest": {
+              "title": "Weekly Contest 433",
+              "startTime": 1737253800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1584.933,
+            "ranking": 10421,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 3587,
+            "contest": {
+              "title": "Biweekly Contest 148",
+              "startTime": 1737210600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1583.294,
+            "ranking": 7935,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 643,
+            "contest": {
+              "title": "Weekly Contest 432",
+              "startTime": 1736649000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1577.542,
+            "ranking": 9048,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 453,
+            "contest": {
+              "title": "Weekly Contest 431",
+              "startTime": 1736044200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1586.089,
+            "ranking": 2884,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4398,
+            "contest": {
+              "title": "Biweekly Contest 147",
+              "startTime": 1736001000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1539.509,
+            "ranking": 7834,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 836,
+            "contest": {
+              "title": "Weekly Contest 430",
+              "startTime": 1735439400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1536.279,
+            "ranking": 3424,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 2816,
+            "contest": {
+              "title": "Weekly Contest 429",
+              "startTime": 1734834600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1486.158,
+            "ranking": 7137,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 536,
+            "contest": {
+              "title": "Weekly Contest 427",
+              "startTime": 1733625000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1468.244,
+            "ranking": 12732,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4783,
+            "contest": {
+              "title": "Biweekly Contest 145",
+              "startTime": 1733581800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1487.944,
+            "ranking": 7645,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 223,
+            "contest": {
+              "title": "Weekly Contest 426",
+              "startTime": 1733020200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1475.733,
+            "ranking": 10395,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 665,
+            "contest": {
+              "title": "Weekly Contest 425",
+              "startTime": 1732415400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1479.983,
+            "ranking": 11399,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1562,
+            "contest": {
+              "title": "Biweekly Contest 144",
+              "startTime": 1732372200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1492.444,
+            "ranking": 8185,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 202,
+            "contest": {
+              "title": "Weekly Contest 422",
+              "startTime": 1730601000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1477.47,
+            "ranking": 7870,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 653,
+            "contest": {
+              "title": "Biweekly Contest 142",
+              "startTime": 1729953000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1458.079,
+            "ranking": 10985,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 929,
+            "contest": {
+              "title": "Weekly Contest 419",
+              "startTime": 1728786600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1453.946,
+            "ranking": 9660,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 569,
+            "contest": {
+              "title": "Biweekly Contest 141",
+              "startTime": 1728743400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1437.96,
+            "ranking": 10659,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1015,
+            "contest": {
+              "title": "Weekly Contest 418",
+              "startTime": 1728181800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1418.745,
+            "ranking": 16576,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1664,
+            "contest": {
+              "title": "Weekly Contest 417",
+              "startTime": 1727577000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1422.33,
+            "ranking": 18658,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 309,
+            "contest": {
+              "title": "Biweekly Contest 140",
+              "startTime": 1727533800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1427.268,
+            "ranking": 16007,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1349,
+            "contest": {
+              "title": "Weekly Contest 416",
+              "startTime": 1726972200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1425.032,
+            "ranking": 16296,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 439,
+            "contest": {
+              "title": "Weekly Contest 415",
+              "startTime": 1726367400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1424.19,
+            "ranking": 14644,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 306,
+            "contest": {
+              "title": "Biweekly Contest 139",
+              "startTime": 1726324200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1414.935,
+            "ranking": 13119,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 481,
+            "contest": {
+              "title": "Weekly Contest 414",
+              "startTime": 1725762600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1397.288,
+            "ranking": 20070,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1613,
+            "contest": {
+              "title": "Weekly Contest 413",
+              "startTime": 1725157800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1411.83,
+            "ranking": 20421,
+            "trendDirection": "DOWN",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4009,
+            "contest": {
+              "title": "Biweekly Contest 138",
+              "startTime": 1725114600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1421.78,
+            "ranking": 12369,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 381,
+            "contest": {
+              "title": "Weekly Contest 412",
+              "startTime": 1724553000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1402.637,
+            "ranking": 18106,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1984,
+            "contest": {
+              "title": "Weekly Contest 409",
+              "startTime": 1722738600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1413.131,
+            "ranking": 24216,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 2147,
+            "contest": {
+              "title": "Biweekly Contest 136",
+              "startTime": 1722695400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1432.325,
+            "ranking": 12567,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4621,
+            "contest": {
+              "title": "Weekly Contest 408",
+              "startTime": 1722133800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1411.536,
+            "ranking": 12108,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1042,
+            "contest": {
+              "title": "Weekly Contest 407",
+              "startTime": 1721529000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1389.073,
+            "ranking": 15226,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5640,
+            "contest": {
+              "title": "Biweekly Contest 135",
+              "startTime": 1721485800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1381.835,
+            "ranking": 21285,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1386,
+            "contest": {
+              "title": "Biweekly Contest 134",
+              "startTime": 1720276200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1386.484,
+            "ranking": 15712,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4452,
+            "contest": {
+              "title": "Weekly Contest 404",
+              "startTime": 1719714600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1383.618,
+            "ranking": 23621,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1363,
+            "contest": {
+              "title": "Weekly Contest 403",
+              "startTime": 1719109800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1402.571,
+            "ranking": 20717,
+            "trendDirection": "DOWN",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1922,
+            "contest": {
+              "title": "Biweekly Contest 133",
+              "startTime": 1719066600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1406.601,
+            "ranking": 22772,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 614,
+            "contest": {
+              "title": "Weekly Contest 402",
+              "startTime": 1718505000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1428.245,
+            "ranking": 21861,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1453,
+            "contest": {
+              "title": "Weekly Contest 401",
+              "startTime": 1717900200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1458.429,
+            "ranking": 20255,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1599,
+            "contest": {
+              "title": "Weekly Contest 400",
+              "startTime": 1717295400
+            }
+          }
+        ],
+        "allQuestionsCount": [
+          {
+            "difficulty": "All",
+            "count": 3491
+          },
+          {
+            "difficulty": "Easy",
+            "count": 867
+          },
+          {
+            "difficulty": "Medium",
+            "count": 1813
+          },
+          {
+            "difficulty": "Hard",
+            "count": 811
+          }
+        ],
+        "matchedUser": {
+          "problemsSolvedBeatsStats": [
+            {
+              "difficulty": "Easy",
+              "percentage": 97.87
+            },
+            {
+              "difficulty": "Medium",
+              "percentage": 89.06
+            },
+            {
+              "difficulty": "Hard",
+              "percentage": 67.24
+            }
+          ],
+          "submitStatsGlobal": {
+            "acSubmissionNum": [
+              {
+                "difficulty": "All",
+                "count": 345
+              },
+              {
+                "difficulty": "Easy",
+                "count": 203
+              },
+              {
+                "difficulty": "Medium",
+                "count": 130
+              },
+              {
+                "difficulty": "Hard",
+                "count": 12
+              }
+            ]
+          }
+        }
+      }
+    },
+    "codeforces": {
+      "username": "22501a1220",
+      "submissions": [
+        {
+          "id": 301909265,
+          "contestId": 2060,
+          "creationTimeSeconds": 1737311465,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 2060,
+            "index": "A",
+            "name": "Fibonacciness",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force"
+            ]
+          },
+          "author": {
+            "contestId": 2060,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1737297300
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 296,
+          "memoryConsumedBytes": 819200
+        },
+        {
+          "id": 282266025,
+          "contestId": 2014,
+          "creationTimeSeconds": 1726931303,
+          "relativeTimeSeconds": 1403,
+          "problem": {
+            "contestId": 2014,
+            "index": "B",
+            "name": "Robin Hood and the Major Oak",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 2014,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1726929900
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 327,
+          "memoryConsumedBytes": 716800
+        },
+        {
+          "id": 282243296,
+          "contestId": 2014,
+          "creationTimeSeconds": 1726930484,
+          "relativeTimeSeconds": 584,
+          "problem": {
+            "contestId": 2014,
+            "index": "A",
+            "name": "Robin Helps",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 2014,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1726929900
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 7,
+          "timeConsumedMillis": 921,
+          "memoryConsumedBytes": 819200
+        },
+        {
+          "id": 279602512,
+          "contestId": 2009,
+          "creationTimeSeconds": 1725378904,
+          "relativeTimeSeconds": 4804,
+          "problem": {
+            "contestId": 2009,
+            "index": "B",
+            "name": "osu!mania",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 2009,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1725374100
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 327,
+          "memoryConsumedBytes": 819200
+        },
+        {
+          "id": 279540691,
+          "contestId": 2009,
+          "creationTimeSeconds": 1725375445,
+          "relativeTimeSeconds": 1345,
+          "problem": {
+            "contestId": 2009,
+            "index": "A",
+            "name": "Minimize!",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 2009,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1725374100
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 2,
+          "timeConsumedMillis": 281,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 279536134,
+          "contestId": 2009,
+          "creationTimeSeconds": 1725375266,
+          "relativeTimeSeconds": 1166,
+          "problem": {
+            "contestId": 2009,
+            "index": "A",
+            "name": "Minimize!",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 2009,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1725374100
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 2,
+          "timeConsumedMillis": 249,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 278300473,
+          "contestId": 1791,
+          "creationTimeSeconds": 1724696790,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 1791,
+            "index": "A",
+            "name": "Codeforces Checking",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 1791,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1675434900
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 5,
+          "timeConsumedMillis": 249,
+          "memoryConsumedBytes": 921600
+        },
+        {
+          "id": 272813937,
+          "contestId": 1996,
+          "creationTimeSeconds": 1722009399,
+          "relativeTimeSeconds": 4899,
+          "problem": {
+            "contestId": 1996,
+            "index": "B",
+            "name": "Scale",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 1996,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1722004500
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 7,
+          "timeConsumedMillis": 1483,
+          "memoryConsumedBytes": 1126400
+        },
+        {
+          "id": 272755502,
+          "contestId": 1996,
+          "creationTimeSeconds": 1722005387,
+          "relativeTimeSeconds": 887,
+          "problem": {
+            "contestId": 1996,
+            "index": "A",
+            "name": "Legs",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "binary search",
+              "math",
+              "ternary search"
+            ]
+          },
+          "author": {
+            "contestId": 1996,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1722004500
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 249,
+          "memoryConsumedBytes": 716800
+        },
+        {
+          "id": 267200329,
+          "contestId": 1399,
+          "creationTimeSeconds": 1719243314,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 1399,
+            "index": "A",
+            "name": "Remove Smallest",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "sortings"
+            ]
+          },
+          "author": {
+            "contestId": 1399,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1596638100
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 249,
+          "memoryConsumedBytes": 614400
+        },
+        {
+          "id": 267197651,
+          "contestId": 1703,
+          "creationTimeSeconds": 1719242130,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 1703,
+            "index": "A",
+            "name": "YES or YES?",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 1703,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1657636500
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 12,
+          "timeConsumedMillis": 265,
+          "memoryConsumedBytes": 1126400
+        },
+        {
+          "id": 267196680,
+          "contestId": 723,
+          "creationTimeSeconds": 1719241720,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 723,
+            "index": "A",
+            "name": "The New Year: Meeting Friends",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "math",
+              "sortings"
+            ]
+          },
+          "author": {
+            "contestId": 723,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1475494500
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 48,
+          "timeConsumedMillis": 265,
+          "memoryConsumedBytes": 1638400
+        },
+        {
+          "id": 266961198,
+          "contestId": 510,
+          "creationTimeSeconds": 1719152067,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 510,
+            "index": "A",
+            "name": "Fox And Snake",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 510,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1422894600
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 28,
+          "timeConsumedMillis": 312,
+          "memoryConsumedBytes": 2048000
+        },
+        {
+          "id": 266956890,
+          "contestId": 1335,
+          "creationTimeSeconds": 1719149599,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 1335,
+            "index": "A",
+            "name": "Candies and Two Sisters",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1335,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1586788500
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 24,
+          "timeConsumedMillis": 359,
+          "memoryConsumedBytes": 819200
+        },
+        {
+          "id": 266955432,
+          "contestId": 785,
+          "creationTimeSeconds": 1719148832,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 785,
+            "index": "A",
+            "name": "Anton and Polyhedrons",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 785,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1489590300
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 30,
+          "timeConsumedMillis": 609,
+          "memoryConsumedBytes": 1433600
+        },
+        {
+          "id": 266954283,
+          "contestId": 443,
+          "creationTimeSeconds": 1719148216,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 443,
+            "index": "A",
+            "name": "Anton and Letters",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "constructive algorithms",
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 443,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1403191800
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 27,
+          "timeConsumedMillis": 265,
+          "memoryConsumedBytes": 921600
+        },
+        {
+          "id": 266951959,
+          "contestId": 996,
+          "creationTimeSeconds": 1719146970,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 996,
+            "index": "A",
+            "name": "Hit the Lottery",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "dp",
+              "greedy"
+            ]
+          },
+          "author": {
+            "contestId": 996,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1529858100
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 49,
+          "timeConsumedMillis": 311,
+          "memoryConsumedBytes": 1126400
+        },
+        {
+          "id": 266949715,
+          "contestId": 228,
+          "creationTimeSeconds": 1719145730,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 228,
+            "index": "A",
+            "name": "Is your horseshoe on the other hoof?",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 228,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1348759800
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 34,
+          "timeConsumedMillis": 530,
+          "memoryConsumedBytes": 921600
+        },
+        {
+          "id": 266948322,
+          "contestId": 61,
+          "creationTimeSeconds": 1719144972,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 61,
+            "index": "A",
+            "name": "Ultra-Fast Mathematician",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 61,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1298390400
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 102,
+          "timeConsumedMillis": 312,
+          "memoryConsumedBytes": 1536000
+        },
+        {
+          "id": 266899300,
+          "contestId": 469,
+          "creationTimeSeconds": 1719114281,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 469,
+            "index": "A",
+            "name": "I Wanna Be the Guy",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 469,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1411218000
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 29,
+          "timeConsumedMillis": 280,
+          "memoryConsumedBytes": 921600
+        },
+        {
+          "id": 266898532,
+          "contestId": 1328,
+          "creationTimeSeconds": 1719113431,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 1328,
+            "index": "A",
+            "name": "Divisibility Problem",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1328,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1585233300
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 11,
+          "timeConsumedMillis": 343,
+          "memoryConsumedBytes": 512000
+        },
+        {
+          "id": 266897800,
+          "contestId": 705,
+          "creationTimeSeconds": 1719112675,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 705,
+            "index": "A",
+            "name": "Hulk",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 705,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1470578700
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 21,
+          "timeConsumedMillis": 280,
+          "memoryConsumedBytes": 819200
+        },
+        {
+          "id": 266301571,
+          "contestId": 520,
+          "creationTimeSeconds": 1718708385,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 520,
+            "index": "A",
+            "name": "Pangram",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 520,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1425279600
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 59,
+          "timeConsumedMillis": 312,
+          "memoryConsumedBytes": 921600
+        },
+        {
+          "id": 266295852,
+          "contestId": 486,
+          "creationTimeSeconds": 1718705490,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 486,
+            "index": "A",
+            "name": "Calculating Function",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 486,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1415718000
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 39,
+          "timeConsumedMillis": 312,
+          "memoryConsumedBytes": 1126400
+        },
+        {
+          "id": 266294373,
+          "contestId": 677,
+          "creationTimeSeconds": 1718704770,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 677,
+            "index": "A",
+            "name": "Vanya and Fence",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 677,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1464798900
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 29,
+          "timeConsumedMillis": 311,
+          "memoryConsumedBytes": 1024000
+        },
+        {
+          "id": 266293575,
+          "contestId": 282,
+          "creationTimeSeconds": 1718704404,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 282,
+            "index": "A",
+            "name": "Bit++",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 282,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1363188600
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 36,
+          "timeConsumedMillis": 343,
+          "memoryConsumedBytes": 1228800
+        },
+        {
+          "id": 266290757,
+          "contestId": 344,
+          "creationTimeSeconds": 1718703087,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 344,
+            "index": "A",
+            "name": "Magnets",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 344,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1379172600
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 31,
+          "timeConsumedMillis": 904,
+          "memoryConsumedBytes": 1024000
+        },
+        {
+          "id": 266286024,
+          "contestId": 467,
+          "creationTimeSeconds": 1718700848,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 467,
+            "index": "A",
+            "name": "George and Accommodation",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 467,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1411054200
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 27,
+          "timeConsumedMillis": 265,
+          "memoryConsumedBytes": 1331200
+        },
+        {
+          "id": 266284901,
+          "contestId": 1030,
+          "creationTimeSeconds": 1718700361,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 1030,
+            "index": "A",
+            "name": "In Search of an Easy Problem",
+            "type": "PROGRAMMING",
+            "points": 250,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 1030,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1537707900
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 28,
+          "timeConsumedMillis": 311,
+          "memoryConsumedBytes": 819200
+        },
+        {
+          "id": 266282902,
+          "contestId": 546,
+          "creationTimeSeconds": 1718699401,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 546,
+            "index": "A",
+            "name": "Soldier and Bananas",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "implementation",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 546,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1432312200
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 15,
+          "timeConsumedMillis": 281,
+          "memoryConsumedBytes": 716800
+        },
+        {
+          "id": 266278885,
+          "contestId": 266,
+          "creationTimeSeconds": 1718698387,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 266,
+            "index": "A",
+            "name": "Stones on the Table",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 266,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1358868600
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 34,
+          "timeConsumedMillis": 560,
+          "memoryConsumedBytes": 1024000
+        },
+        {
+          "id": 266277269,
+          "contestId": 339,
+          "creationTimeSeconds": 1718697575,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 339,
+            "index": "A",
+            "name": "Helpful Maths",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "implementation",
+              "sortings",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 339,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1377531000
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 21,
+          "timeConsumedMillis": 560,
+          "memoryConsumedBytes": 2048000
+        },
+        {
+          "id": 266266960,
+          "contestId": 791,
+          "creationTimeSeconds": 1718691805,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 791,
+            "index": "A",
+            "name": "Bear and Big Brother",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 791,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1489851300
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 62,
+          "timeConsumedMillis": 296,
+          "memoryConsumedBytes": 921600
+        },
+        {
+          "id": 266266290,
+          "contestId": 236,
+          "creationTimeSeconds": 1718691351,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 236,
+            "index": "A",
+            "name": "Boy or Girl",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 236,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1350803400
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 85,
+          "timeConsumedMillis": 562,
+          "memoryConsumedBytes": 1536000
+        },
+        {
+          "id": 266265442,
+          "contestId": 734,
+          "creationTimeSeconds": 1718690821,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 734,
+            "index": "A",
+            "name": "Anton and Danik",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 734,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1479227700
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 25,
+          "timeConsumedMillis": 311,
+          "memoryConsumedBytes": 1740800
+        },
+        {
+          "id": 266264642,
+          "contestId": 41,
+          "creationTimeSeconds": 1718690234,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 41,
+            "index": "A",
+            "name": "Translation",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 41,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1289232000
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 40,
+          "timeConsumedMillis": 592,
+          "memoryConsumedBytes": 1638400
+        },
+        {
+          "id": 266264541,
+          "contestId": 116,
+          "creationTimeSeconds": 1718690164,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 116,
+            "index": "A",
+            "name": "Tram",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 116,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1316098800
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 71,
+          "timeConsumedMillis": 624,
+          "memoryConsumedBytes": 1024000
+        },
+        {
+          "id": 265359601,
+          "contestId": 1985,
+          "creationTimeSeconds": 1718123267,
+          "relativeTimeSeconds": 6767,
+          "problem": {
+            "contestId": 1985,
+            "index": "D",
+            "name": "Manhattan Circle",
+            "type": "PROGRAMMING",
+            "rating": 900,
+            "tags": [
+              "implementation",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1985,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1718116500
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 10,
+          "timeConsumedMillis": 421,
+          "memoryConsumedBytes": 409600
+        },
+        {
+          "id": 265300341,
+          "contestId": 1985,
+          "creationTimeSeconds": 1718119240,
+          "relativeTimeSeconds": 2740,
+          "problem": {
+            "contestId": 1985,
+            "index": "B",
+            "name": "Maximum Multiple Sum",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math",
+              "number theory"
+            ]
+          },
+          "author": {
+            "contestId": 1985,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1718116500
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 249,
+          "memoryConsumedBytes": 102400
+        },
+        {
+          "id": 265257351,
+          "contestId": 1985,
+          "creationTimeSeconds": 1718117466,
+          "relativeTimeSeconds": 966,
+          "problem": {
+            "contestId": 1985,
+            "index": "A",
+            "name": "Creating Words",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 1985,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1718116500
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 2,
+          "timeConsumedMillis": 233,
+          "memoryConsumedBytes": 1126400
+        },
+        {
+          "id": 263985230,
+          "contestId": 1980,
+          "creationTimeSeconds": 1717429764,
+          "relativeTimeSeconds": 4464,
+          "problem": {
+            "contestId": 1980,
+            "index": "B",
+            "name": "Choosing Cubes",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "sortings",
+              "sortings"
+            ]
+          },
+          "author": {
+            "contestId": 1980,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1717425300
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 343,
+          "memoryConsumedBytes": 819200
+        },
+        {
+          "id": 263945021,
+          "contestId": 1980,
+          "creationTimeSeconds": 1717427361,
+          "relativeTimeSeconds": 2061,
+          "problem": {
+            "contestId": 1980,
+            "index": "A",
+            "name": "Problem Generator",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1980,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1717425300
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 327,
+          "memoryConsumedBytes": 819200
+        },
+        {
+          "id": 253365547,
+          "contestId": 617,
+          "creationTimeSeconds": 1711464733,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 617,
+            "index": "A",
+            "name": "Elephant",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 617,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1453563300
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 34,
+          "timeConsumedMillis": 280,
+          "memoryConsumedBytes": 614400
+        },
+        {
+          "id": 253363552,
+          "contestId": 59,
+          "creationTimeSeconds": 1711464045,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 59,
+            "index": "A",
+            "name": "Word",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 59,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1297440000
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 30,
+          "timeConsumedMillis": 560,
+          "memoryConsumedBytes": 409600
+        },
+        {
+          "id": 252611868,
+          "contestId": 263,
+          "creationTimeSeconds": 1711034734,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 263,
+            "index": "A",
+            "name": "Beautiful Matrix",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 263,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1358350200
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 25,
+          "timeConsumedMillis": 560,
+          "memoryConsumedBytes": 614400
+        },
+        {
+          "id": 250986257,
+          "contestId": 281,
+          "creationTimeSeconds": 1710265751,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 281,
+            "index": "A",
+            "name": "Word Capitalization",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 281,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1362929400
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 25,
+          "timeConsumedMillis": 624,
+          "memoryConsumedBytes": 512000
+        },
+        {
+          "id": 250983817,
+          "contestId": 112,
+          "creationTimeSeconds": 1710264731,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 112,
+            "index": "A",
+            "name": "Petya and Strings",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 112,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1315051200
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 53,
+          "timeConsumedMillis": 590,
+          "memoryConsumedBytes": 409600
+        },
+        {
+          "id": 250979270,
+          "contestId": 50,
+          "creationTimeSeconds": 1710262901,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 50,
+            "index": "A",
+            "name": "Domino piling",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 50,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1292862000
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 35,
+          "timeConsumedMillis": 592,
+          "memoryConsumedBytes": 512000
+        },
+        {
+          "id": 250978184,
+          "contestId": 158,
+          "creationTimeSeconds": 1710262482,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 158,
+            "index": "A",
+            "name": "Next Round",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "*special",
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 158,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1330804800
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 50,
+          "timeConsumedMillis": 622,
+          "memoryConsumedBytes": 512000
+        },
+        {
+          "id": 250946689,
+          "contestId": 231,
+          "creationTimeSeconds": 1710251137,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 231,
+            "index": "A",
+            "name": "Team",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "greedy"
+            ]
+          },
+          "author": {
+            "contestId": 231,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1349623800
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 21,
+          "timeConsumedMillis": 654,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 250500646,
+          "contestId": 4,
+          "creationTimeSeconds": 1710071338,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 4,
+            "index": "A",
+            "name": "Watermelon",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 4,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1268395200
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 20,
+          "timeConsumedMillis": 592,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 250499694,
+          "contestId": 71,
+          "creationTimeSeconds": 1710070865,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 71,
+            "index": "A",
+            "name": "Way Too Long Words",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 71,
+            "members": [
+              {
+                "handle": "22501a1220"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1301410800
+          },
+          "programmingLanguage": "Java 21",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 20,
+          "timeConsumedMillis": 296,
+          "memoryConsumedBytes": 307200
+        }
+      ]
+    },
+    "codechef": {
+      "username": "devendra9999",
+      "contests": [
+        {
+          "code": "START175C",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "26",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1439",
+          "rank": "1361",
+          "name": "Starters 175 (Rated)",
+          "end_date": "2025-02-26 22:00:04",
+          "color": "#1E7D22",
+          "problems": [
+            "Technex Tickets",
+            "Make same"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START174C",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "19",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1422",
+          "rank": "1883",
+          "name": "Starters 174 (Rated)",
+          "end_date": "2025-02-19 22:15:04",
+          "color": "#1E7D22",
+          "problems": [
+            "Too Much Homework!",
+            "Bigger is Better",
+            "Deletion and Difference"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START173C",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "12",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1410",
+          "rank": "3192",
+          "name": "Starters 173 (Rated upto < 2700)",
+          "end_date": "2025-02-12 22:30:04",
+          "color": "#1E7D22",
+          "problems": [
+            "Cool Subsequences",
+            "Time Penalty"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START172D",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "5",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1426",
+          "rank": "504",
+          "name": "Starters 172 (Rated)",
+          "end_date": "2025-02-05 22:00:06",
+          "color": "#1E7D22",
+          "problems": [
+            "Small Palindrome",
+            "Streak Star",
+            "Time Machine",
+            "Transform String"
+          ],
+          "noOfProblems": 4
+        },
+        {
+          "code": "START171D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "29",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1381",
+          "rank": "3203",
+          "name": "Starters 171 (Rated)",
+          "end_date": "2025-01-29 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Squid Game - Piggy Bank",
+            "Swish Game",
+            "Advitiya"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START170D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "22",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1349",
+          "rank": "3761",
+          "name": "Starters 170 (Rated)",
+          "end_date": "2025-01-22 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Access Code Equality",
+            "Monster Monster",
+            "Minimum Bottles"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START169D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "15",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1321",
+          "rank": "3359",
+          "name": "Starters 169 (Rated)",
+          "end_date": "2025-01-15 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Hamming equivalent",
+            "Entry Check",
+            "Opposite Attract"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START168D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "8",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1295",
+          "rank": "4678",
+          "name": "Starters 168 (Rated)",
+          "end_date": "2025-01-08 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "Can You Bench",
+            "Make Odd",
+            "Big Achiever"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START167D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "1",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1269",
+          "rank": "1545",
+          "name": "Starters 167 (Rated)",
+          "end_date": "2025-01-01 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Temperature Balance",
+            "Happy New Year!",
+            "Delete Not Equal"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START165D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "18",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1228",
+          "rank": "4334",
+          "name": "Starters 165 (Rated)",
+          "end_date": "2024-12-18 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Christmas Cake",
+            "Bulk Discount",
+            "Poster Perimeter"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START164D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "11",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1200",
+          "rank": "5166",
+          "name": "Starters 164 (Rated)",
+          "end_date": "2024-12-11 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "New-Pro Coder",
+            "Itz Simple"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START163D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "4",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1179",
+          "rank": "4704",
+          "name": "Starters 163 (Rated)",
+          "end_date": "2024-12-04 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Chef and Socks",
+            "Binary Sum"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START162D",
+          "getyear": "2024",
+          "getmonth": "11",
+          "getday": "27",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1152",
+          "rank": "3944",
+          "name": "Starters 162 (Rated)",
+          "end_date": "2024-11-27 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Calorie Intake",
+            "Assignment Score"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START156D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "16",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1116",
+          "rank": "12972",
+          "name": "Starters 156 (Rated)",
+          "end_date": "2024-10-16 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Sweets Shop",
+            "Long Queue"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START155D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "9",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1081",
+          "rank": "11153",
+          "name": "Starters 155 (Rated)",
+          "end_date": "2024-10-09 22:00:04",
+          "color": "#666666",
+          "problems": [
+            "Chef and Parole",
+            "Rectangled"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START154D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "2",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1044",
+          "rank": "10290",
+          "name": "Starters 154 (Rated)",
+          "end_date": "2024-10-02 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Add 1 or 2 Game",
+            "Coldplay Tickets",
+            "Calorie Limit"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START153D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "25",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "999",
+          "rank": "10748",
+          "name": "Starters 153 (Rated)",
+          "end_date": "2024-09-25 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "AI is Coming",
+            "Make Arithmetic Progression",
+            "Butterfly"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START152D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "18",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "953",
+          "rank": "5005",
+          "name": "Starters 152 (Rated)",
+          "end_date": "2024-09-18 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Chess Olympiad",
+            "Winning World Finals",
+            "Range Minimize"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START151D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "11",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "905",
+          "rank": "14033",
+          "name": "Starters 151 (rated)",
+          "end_date": "2024-09-11 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Weightlifting"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START150D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "4",
+          "reason": "Cheated in START150D",
+          "penalised_in": [
+            "START150D"
+          ],
+          "rating": "869",
+          "rank": "6161",
+          "name": "Starters 150 (Rated)",
+          "end_date": "2024-09-04 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "IOI 2024",
+            "Equal Pairs (Easy)",
+            "Find Multiset State"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START149D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "28",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1141",
+          "rank": "15041",
+          "name": "Starters 149 (Rated)",
+          "end_date": "2024-08-28 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Magical World",
+            "Approximate Answer"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START148D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "21",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1132",
+          "rank": "10929",
+          "name": "Starters 148 Division 4 (Rated)",
+          "end_date": "2024-08-21 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Let Me Eat Cake!",
+            "Clearance Sale"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START146D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "7",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1101",
+          "rank": "10462",
+          "name": "Starters 146 Division 4 (Rated till 5 stars)",
+          "end_date": "2024-08-07 22:00:04",
+          "color": "#666666",
+          "problems": [
+            "No Winner",
+            "Olympics 2024"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START145D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "31",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1065",
+          "rank": "11160",
+          "name": "Starters 145 Division 4 (Rated)",
+          "end_date": "2024-07-31 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Volume Comparison",
+            "Gun Master"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START144D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "24",
+          "reason": "Cheated in START144D",
+          "penalised_in": [
+            "START144D"
+          ],
+          "rating": "1036",
+          "rank": "20134",
+          "name": "Starters 144 Division 4 (Rated)",
+          "end_date": "2024-07-24 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Budget Allotment",
+            "Savings Account",
+            "Capital Gain Tax"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START143D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "17",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1302",
+          "rank": "4765",
+          "name": "Starters 143 Division 4 (Rated)",
+          "end_date": "2024-07-17 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "International Justice Day",
+            "Maximum Coins"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START142D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "10",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1285",
+          "rank": "4061",
+          "name": "Starters 142 Division 4 (Rated)",
+          "end_date": "2024-07-10 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Chef loves Pizza Chef loves halfs",
+            "Writing Speed",
+            "Penalty Shoot-out"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START141D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "3",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1245",
+          "rank": "4924",
+          "name": "Starters 141 Division 4 (Rated)",
+          "end_date": "2024-07-03 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Nearly Equal",
+            "Lucky Clover"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START140D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "26",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1203",
+          "rank": "7510",
+          "name": "Starters 140 Division 4 (Rated)",
+          "end_date": "2024-06-26 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Yoga Day",
+            "Yoga Class"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START139D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "19",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1175",
+          "rank": "5689",
+          "name": "Starters 139 Division 4 (Rated)",
+          "end_date": "2024-06-19 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Distribute Cookies",
+            "Television Channels"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START138D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "12",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1100",
+          "rank": "6609",
+          "name": "Starters 138 Division 4 (Rated)",
+          "end_date": "2024-06-12 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Heat Wave",
+            "Long Drive"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START137D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "5",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "959",
+          "rank": "4090",
+          "name": "Starters 137 Division 4 (Rated)",
+          "end_date": "2024-06-05 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "Election Hopes",
+            "Spell Splice",
+            "Large Differences"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START136D",
+          "getyear": "2024",
+          "getmonth": "5",
+          "getday": "29",
+          "reason": "Cheated in START136D",
+          "penalised_in": [
+            "START136D"
+          ],
+          "rating": "663",
+          "rank": "16195",
+          "name": "Starters 136 Division 4 (Rated)",
+          "end_date": "2024-05-29 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Who Makes P1",
+            "Even Sum Subarray",
+            "My First Geometry Problem"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START130D",
+          "getyear": "2024",
+          "getmonth": "4",
+          "getday": "17",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "827",
+          "rank": "17175",
+          "name": "Starters 130 Division 4 (Rated)",
+          "end_date": "2024-04-17 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Giant Wheel"
+          ],
+          "noOfProblems": 1
+        }
+      ],
+      "problemsSolved": "386"
+    }
+  },
+  {
+    "rollno": "22501a1214",
+    "name": "Sanjay",
+    "leetcode": {
+      "username": "pBUWNzSnsW",
+      "data": {
+        "userContestRanking": {
+          "attendedContestsCount": 22,
+          "rating": 1309.8225552590397,
+          "globalRanking": 653956,
+          "totalParticipants": 678221,
+          "topPercentage": 96.49,
+          "badge": null
+        },
+        "userContestRankingHistory": [
+          {
+            "attended": true,
+            "rating": 1309.823,
+            "ranking": 16170,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 2358,
+            "contest": {
+              "title": "Biweekly Contest 152",
+              "startTime": 1742049000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1310.001,
+            "ranking": 8367,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 3111,
+            "contest": {
+              "title": "Biweekly Contest 151",
+              "startTime": 1740839400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1253.436,
+            "ranking": 19285,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1940,
+            "contest": {
+              "title": "Biweekly Contest 150",
+              "startTime": 1739629800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1242.046,
+            "ranking": 15782,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4623,
+            "contest": {
+              "title": "Weekly Contest 436",
+              "startTime": 1739068200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1232.709,
+            "ranking": 17532,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5130,
+            "contest": {
+              "title": "Weekly Contest 433",
+              "startTime": 1737253800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1254.255,
+            "ranking": 12017,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4659,
+            "contest": {
+              "title": "Biweekly Contest 148",
+              "startTime": 1737210600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1208.376,
+            "ranking": 21582,
+            "trendDirection": "DOWN",
+            "problemsSolved": 0,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 0,
+            "contest": {
+              "title": "Biweekly Contest 147",
+              "startTime": 1736001000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1240.009,
+            "ranking": 17861,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4136,
+            "contest": {
+              "title": "Biweekly Contest 146",
+              "startTime": 1734791400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1255.567,
+            "ranking": 13183,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5753,
+            "contest": {
+              "title": "Biweekly Contest 145",
+              "startTime": 1733581800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1257.359,
+            "ranking": 13252,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 3111,
+            "contest": {
+              "title": "Weekly Contest 426",
+              "startTime": 1733020200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1259.34,
+            "ranking": 22302,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1438,
+            "contest": {
+              "title": "Biweekly Contest 140",
+              "startTime": 1727533800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1262.335,
+            "ranking": 25181,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4259,
+            "contest": {
+              "title": "Biweekly Contest 139",
+              "startTime": 1726324200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1285.954,
+            "ranking": 26190,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5262,
+            "contest": {
+              "title": "Biweekly Contest 138",
+              "startTime": 1725114600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1312.454,
+            "ranking": 22694,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 3814,
+            "contest": {
+              "title": "Weekly Contest 412",
+              "startTime": 1724553000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1331.938,
+            "ranking": 23729,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1670,
+            "contest": {
+              "title": "Biweekly Contest 136",
+              "startTime": 1722695400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1341.832,
+            "ranking": 25496,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4766,
+            "contest": {
+              "title": "Weekly Contest 408",
+              "startTime": 1722133800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1372.123,
+            "ranking": 22087,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4534,
+            "contest": {
+              "title": "Weekly Contest 407",
+              "startTime": 1721529000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1398.109,
+            "ranking": 14488,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4736,
+            "contest": {
+              "title": "Biweekly Contest 135",
+              "startTime": 1721485800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1387.303,
+            "ranking": 22978,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1950,
+            "contest": {
+              "title": "Biweekly Contest 134",
+              "startTime": 1720276200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1402.129,
+            "ranking": 20380,
+            "trendDirection": "DOWN",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 1637,
+            "contest": {
+              "title": "Biweekly Contest 133",
+              "startTime": 1719066600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1404.762,
+            "ranking": 23665,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 987,
+            "contest": {
+              "title": "Weekly Contest 402",
+              "startTime": 1718505000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1436.766,
+            "ranking": 23201,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 3354,
+            "contest": {
+              "title": "Weekly Contest 400",
+              "startTime": 1717295400
+            }
+          }
+        ],
+        "allQuestionsCount": [
+          {
+            "difficulty": "All",
+            "count": 3491
+          },
+          {
+            "difficulty": "Easy",
+            "count": 867
+          },
+          {
+            "difficulty": "Medium",
+            "count": 1813
+          },
+          {
+            "difficulty": "Hard",
+            "count": 811
+          }
+        ],
+        "matchedUser": {
+          "problemsSolvedBeatsStats": [
+            {
+              "difficulty": "Easy",
+              "percentage": 91.74
+            },
+            {
+              "difficulty": "Medium",
+              "percentage": 62.02
+            },
+            {
+              "difficulty": "Hard",
+              "percentage": 20.69
+            }
+          ],
+          "submitStatsGlobal": {
+            "acSubmissionNum": [
+              {
+                "difficulty": "All",
+                "count": 136
+              },
+              {
+                "difficulty": "Easy",
+                "count": 108
+              },
+              {
+                "difficulty": "Medium",
+                "count": 26
+              },
+              {
+                "difficulty": "Hard",
+                "count": 2
+              }
+            ]
+          }
+        }
+      }
+    },
+    "codeforces": {
+      "username": "22501a1214",
+      "submissions": [
+        {
+          "id": 307769313,
+          "contestId": 2072,
+          "creationTimeSeconds": 1740498295,
+          "relativeTimeSeconds": 4195,
+          "problem": {
+            "contestId": 2072,
+            "index": "A",
+            "name": "New World, New Me, New Array",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "implementation",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 2072,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1740494100
+          },
+          "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 7,
+          "timeConsumedMillis": 62,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 305251485,
+          "contestId": 2065,
+          "creationTimeSeconds": 1739114980,
+          "relativeTimeSeconds": 3280,
+          "problem": {
+            "contestId": 2065,
+            "index": "A",
+            "name": "Skibidus and Amog'u",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "constructive algorithms",
+              "greedy",
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 2065,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1739111700
+          },
+          "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 102400
+        },
+        {
+          "id": 297857977,
+          "contestId": 2051,
+          "creationTimeSeconds": 1734879807,
+          "relativeTimeSeconds": 1707,
+          "problem": {
+            "contestId": 2051,
+            "index": "A",
+            "name": "Preparing for the Olympiad",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "greedy"
+            ]
+          },
+          "author": {
+            "contestId": 2051,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1734878100
+          },
+          "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 5,
+          "timeConsumedMillis": 155,
+          "memoryConsumedBytes": 102400
+        },
+        {
+          "id": 296685148,
+          "contestId": 2044,
+          "creationTimeSeconds": 1734276646,
+          "relativeTimeSeconds": 3346,
+          "problem": {
+            "contestId": 2044,
+            "index": "C",
+            "name": "Hard Problem",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 2044,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1734273300
+          },
+          "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 108,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 296661680,
+          "contestId": 2044,
+          "creationTimeSeconds": 1734275443,
+          "relativeTimeSeconds": 2143,
+          "problem": {
+            "contestId": 2044,
+            "index": "B",
+            "name": "Normal Problem",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 2044,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1734273300
+          },
+          "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 31,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 296624311,
+          "contestId": 2044,
+          "creationTimeSeconds": 1734274106,
+          "relativeTimeSeconds": 806,
+          "problem": {
+            "contestId": 2044,
+            "index": "A",
+            "name": "Easy Problem",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 2044,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1734273300
+          },
+          "programmingLanguage": "C++23 (GCC 14-64, msys2)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 77,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 296616951,
+          "contestId": 2044,
+          "creationTimeSeconds": 1734273933,
+          "relativeTimeSeconds": 633,
+          "problem": {
+            "contestId": 2044,
+            "index": "A",
+            "name": "Easy Problem",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 2044,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1734273300
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 31,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 282256180,
+          "contestId": 2014,
+          "creationTimeSeconds": 1726930940,
+          "relativeTimeSeconds": 1040,
+          "problem": {
+            "contestId": 2014,
+            "index": "A",
+            "name": "Robin Helps",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 2014,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1726929900
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 7,
+          "timeConsumedMillis": 109,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 274733271,
+          "contestId": 1999,
+          "creationTimeSeconds": 1722955277,
+          "relativeTimeSeconds": 377,
+          "problem": {
+            "contestId": 1999,
+            "index": "A",
+            "name": "A+B Again?",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1999,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1722954900
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 6,
+          "timeConsumedMillis": 61,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 272782088,
+          "contestId": 1996,
+          "creationTimeSeconds": 1722006813,
+          "relativeTimeSeconds": 2313,
+          "problem": {
+            "contestId": 1996,
+            "index": "A",
+            "name": "Legs",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "binary search",
+              "math",
+              "ternary search"
+            ]
+          },
+          "author": {
+            "contestId": 1996,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1722004500
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 272769613,
+          "contestId": 1996,
+          "creationTimeSeconds": 1722006075,
+          "relativeTimeSeconds": 1575,
+          "problem": {
+            "contestId": 1996,
+            "index": "A",
+            "name": "Legs",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "binary search",
+              "math",
+              "ternary search"
+            ]
+          },
+          "author": {
+            "contestId": 1996,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1722004500
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 31,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 267356128,
+          "contestId": 1982,
+          "creationTimeSeconds": 1719328294,
+          "relativeTimeSeconds": 2194,
+          "problem": {
+            "contestId": 1982,
+            "index": "A",
+            "name": "Soccer",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "implementation",
+              "math",
+              "sortings"
+            ]
+          },
+          "author": {
+            "contestId": 1982,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 494,
+            "startTimeSeconds": 1719326100
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 267000719,
+          "contestId": 1986,
+          "creationTimeSeconds": 1719155557,
+          "relativeTimeSeconds": 1357,
+          "problem": {
+            "contestId": 1986,
+            "index": "A",
+            "name": "X Axis",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "geometry",
+              "math",
+              "sortings"
+            ]
+          },
+          "author": {
+            "contestId": 1986,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1719154200
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 5,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 265383607,
+          "contestId": 1985,
+          "creationTimeSeconds": 1718125437,
+          "relativeTimeSeconds": 8937,
+          "problem": {
+            "contestId": 1985,
+            "index": "D",
+            "name": "Manhattan Circle",
+            "type": "PROGRAMMING",
+            "rating": 900,
+            "tags": [
+              "implementation",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1985,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1718116500
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 10,
+          "timeConsumedMillis": 109,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 265301618,
+          "contestId": 1985,
+          "creationTimeSeconds": 1718119307,
+          "relativeTimeSeconds": 2807,
+          "problem": {
+            "contestId": 1985,
+            "index": "B",
+            "name": "Maximum Multiple Sum",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math",
+              "number theory"
+            ]
+          },
+          "author": {
+            "contestId": 1985,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1718116500
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 265266252,
+          "contestId": 1985,
+          "creationTimeSeconds": 1718117748,
+          "relativeTimeSeconds": 1248,
+          "problem": {
+            "contestId": 1985,
+            "index": "A",
+            "name": "Creating Words",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 1985,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1718116500
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 2,
+          "timeConsumedMillis": 30,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 265258403,
+          "contestId": 1985,
+          "creationTimeSeconds": 1718117499,
+          "relativeTimeSeconds": 999,
+          "problem": {
+            "contestId": 1985,
+            "index": "A",
+            "name": "Creating Words",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 1985,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1718116500
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 2,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 265253972,
+          "contestId": 1985,
+          "creationTimeSeconds": 1718117368,
+          "relativeTimeSeconds": 868,
+          "problem": {
+            "contestId": 1985,
+            "index": "A",
+            "name": "Creating Words",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 1985,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1718116500
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 2,
+          "timeConsumedMillis": 31,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 263971293,
+          "contestId": 1980,
+          "creationTimeSeconds": 1717428834,
+          "relativeTimeSeconds": 3534,
+          "problem": {
+            "contestId": 1980,
+            "index": "A",
+            "name": "Problem Generator",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1980,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1717425300
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 62,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 263590088,
+          "contestId": 520,
+          "creationTimeSeconds": 1717226114,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 520,
+            "index": "A",
+            "name": "Pangram",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 520,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1425279600
+          },
+          "programmingLanguage": "Python 3",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 59,
+          "timeConsumedMillis": 78,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 263046193,
+          "contestId": 71,
+          "creationTimeSeconds": 1716917101,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 71,
+            "index": "A",
+            "name": "Way Too Long Words",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 71,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1301410800
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 20,
+          "timeConsumedMillis": 77,
+          "memoryConsumedBytes": 102400
+        },
+        {
+          "id": 253381043,
+          "contestId": 69,
+          "creationTimeSeconds": 1711471136,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 69,
+            "index": "A",
+            "name": "Young Physicist",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 1000,
+            "tags": [
+              "implementation",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 69,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1300809600
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 81,
+          "timeConsumedMillis": 62,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 253206705,
+          "contestId": 59,
+          "creationTimeSeconds": 1711369305,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 59,
+            "index": "A",
+            "name": "Word",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 59,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1297440000
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 30,
+          "timeConsumedMillis": 62,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 253204857,
+          "contestId": 231,
+          "creationTimeSeconds": 1711368488,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 231,
+            "index": "A",
+            "name": "Team",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "greedy"
+            ]
+          },
+          "author": {
+            "contestId": 231,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1349623800
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 21,
+          "timeConsumedMillis": 60,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 253202351,
+          "contestId": 546,
+          "creationTimeSeconds": 1711367379,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 546,
+            "index": "A",
+            "name": "Soldier and Bananas",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "implementation",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 546,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1432312200
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 15,
+          "timeConsumedMillis": 15,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 253200490,
+          "contestId": 617,
+          "creationTimeSeconds": 1711366589,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 617,
+            "index": "A",
+            "name": "Elephant",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 617,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1453563300
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 34,
+          "timeConsumedMillis": 30,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 253199020,
+          "contestId": 266,
+          "creationTimeSeconds": 1711365880,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 266,
+            "index": "A",
+            "name": "Stones on the Table",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 266,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1358868600
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 34,
+          "timeConsumedMillis": 30,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 253198131,
+          "contestId": 791,
+          "creationTimeSeconds": 1711365456,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 791,
+            "index": "A",
+            "name": "Bear and Big Brother",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 791,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1489851300
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 62,
+          "timeConsumedMillis": 30,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 253197089,
+          "contestId": 1,
+          "creationTimeSeconds": 1711364952,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 1,
+            "index": "A",
+            "name": "Theatre Square",
+            "type": "PROGRAMMING",
+            "rating": 1000,
+            "tags": [
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1266580800
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 20,
+          "timeConsumedMillis": 15,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 253195515,
+          "contestId": 158,
+          "creationTimeSeconds": 1711364244,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 158,
+            "index": "A",
+            "name": "Next Round",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "*special",
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 158,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1330804800
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 50,
+          "timeConsumedMillis": 60,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 253191655,
+          "contestId": 4,
+          "creationTimeSeconds": 1711362298,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 4,
+            "index": "A",
+            "name": "Watermelon",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 4,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1268395200
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 20,
+          "timeConsumedMillis": 60,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 251929504,
+          "contestId": 281,
+          "creationTimeSeconds": 1710677784,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 281,
+            "index": "A",
+            "name": "Word Capitalization",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 281,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1362929400
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 25,
+          "timeConsumedMillis": 30,
+          "memoryConsumedBytes": 307200
+        },
+        {
+          "id": 251758281,
+          "contestId": 71,
+          "creationTimeSeconds": 1710604051,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 71,
+            "index": "A",
+            "name": "Way Too Long Words",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 71,
+            "members": [
+              {
+                "handle": "22501a1214"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1301410800
+          },
+          "programmingLanguage": "GNU C11",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 20,
+          "timeConsumedMillis": 31,
+          "memoryConsumedBytes": 307200
+        }
+      ]
+    },
+    "codechef": {
+      "username": "bonisanjay",
+      "contests": [
+        {
+          "code": "START178D",
+          "getyear": "2025",
+          "getmonth": "3",
+          "getday": "19",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1082",
+          "rank": "17414",
+          "name": "Starters 178 (Rated)",
+          "end_date": "2025-03-19 22:15:06",
+          "color": "#666666",
+          "problems": [
+            "Food Balance",
+            "Permutation Construct"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START175D",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "26",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1075",
+          "rank": "18212",
+          "name": "Starters 175 (Rated)",
+          "end_date": "2025-02-26 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Assignment Due"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START173D",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "12",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1094",
+          "rank": "26708",
+          "name": "Starters 173 (Rated upto < 2700)",
+          "end_date": "2025-02-12 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "Time Penalty"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START172D",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "5",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1112",
+          "rank": "20287",
+          "name": "Starters 172 (Rated)",
+          "end_date": "2025-02-05 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Time Machine",
+            "Small Palindrome"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START171D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "29",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1111",
+          "rank": "35515",
+          "name": "Starters 171 (Rated)",
+          "end_date": "2025-01-29 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Squid Game - Piggy Bank"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START168D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "8",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1151",
+          "rank": "14303",
+          "name": "Starters 168 (Rated)",
+          "end_date": "2025-01-08 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "Can You Bench",
+            "Big Achiever"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START167D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "1",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1154",
+          "rank": "16943",
+          "name": "Starters 167 (Rated)",
+          "end_date": "2025-01-01 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Happy New Year!"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START165D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "18",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1184",
+          "rank": "4752",
+          "name": "Starters 165 (Rated)",
+          "end_date": "2024-12-18 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Christmas Cake",
+            "Poster Perimeter",
+            "Bulk Discount"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START164D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "11",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1161",
+          "rank": "7663",
+          "name": "Starters 164 (Rated)",
+          "end_date": "2024-12-11 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "New-Pro Coder",
+            "Itz Simple"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START163D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "4",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1158",
+          "rank": "6431",
+          "name": "Starters 163 (Rated)",
+          "end_date": "2024-12-04 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Chef and Socks",
+            "Binary Sum"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START162D",
+          "getyear": "2024",
+          "getmonth": "11",
+          "getday": "27",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1145",
+          "rank": "7066",
+          "name": "Starters 162 (Rated)",
+          "end_date": "2024-11-27 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Calorie Intake",
+            "Assignment Score"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START156D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "16",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1140",
+          "rank": "28391",
+          "name": "Starters 156 (Rated)",
+          "end_date": "2024-10-16 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Sweets Shop"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START155D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "9",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1170",
+          "rank": "19954",
+          "name": "Starters 155 (Rated)",
+          "end_date": "2024-10-09 22:00:04",
+          "color": "#666666",
+          "problems": [
+            "Chef and Parole",
+            "Rectangled"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START154D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "2",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1190",
+          "rank": "21183",
+          "name": "Starters 154 (Rated)",
+          "end_date": "2024-10-02 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Calorie Limit",
+            "Coldplay Tickets"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START153D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "25",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1210",
+          "rank": "10430",
+          "name": "Starters 153 (Rated)",
+          "end_date": "2024-09-25 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "AI is Coming",
+            "Make Arithmetic Progression",
+            "Butterfly"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START152D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "18",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1194",
+          "rank": "15224",
+          "name": "Starters 152 (Rated)",
+          "end_date": "2024-09-18 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Range Minimize",
+            "Chess Olympiad"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START151D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "11",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1182",
+          "rank": "26089",
+          "name": "Starters 151 (rated)",
+          "end_date": "2024-09-11 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Weightlifting"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START150D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "4",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1211",
+          "rank": "13517",
+          "name": "Starters 150 (Rated)",
+          "end_date": "2024-09-04 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "IOI 2024",
+            "Ratio By 2"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START149D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "28",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1221",
+          "rank": "14979",
+          "name": "Starters 149 (Rated)",
+          "end_date": "2024-08-28 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Maximise Sum",
+            "Approximate Answer"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START148D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "21",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1223",
+          "rank": "15319",
+          "name": "Starters 148 Division 4 (Rated)",
+          "end_date": "2024-08-21 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Let Me Eat Cake!",
+            "Clearance Sale"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START146D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "7",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1229",
+          "rank": "16469",
+          "name": "Starters 146 Division 4 (Rated till 5 stars)",
+          "end_date": "2024-08-07 22:00:04",
+          "color": "#666666",
+          "problems": [
+            "No Winner",
+            "Olympics 2024"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START145D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "31",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1238",
+          "rank": "14181",
+          "name": "Starters 145 Division 4 (Rated)",
+          "end_date": "2024-07-31 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Volume Comparison",
+            "Gun Master"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START144D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "24",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1246",
+          "rank": "9408",
+          "name": "Starters 144 Division 4 (Rated)",
+          "end_date": "2024-07-24 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Capital Gain Tax",
+            "Savings Account"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START143D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "17",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1242",
+          "rank": "10812",
+          "name": "Starters 143 Division 4 (Rated)",
+          "end_date": "2024-07-17 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "International Justice Day"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START142D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "10",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1267",
+          "rank": "6937",
+          "name": "Starters 142 Division 4 (Rated)",
+          "end_date": "2024-07-10 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Writing Speed",
+            "Penalty Shoot-out"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START141D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "3",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1258",
+          "rank": "12092",
+          "name": "Starters 141 Division 4 (Rated)",
+          "end_date": "2024-07-03 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Nearly Equal",
+            "Lucky Clover"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START140D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "26",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1284",
+          "rank": "8091",
+          "name": "Starters 140 Division 4 (Rated)",
+          "end_date": "2024-06-26 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Yoga Day",
+            "Yoga Class"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START139D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "19",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1283",
+          "rank": "6148",
+          "name": "Starters 139 Division 4 (Rated)",
+          "end_date": "2024-06-19 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Distribute Cookies",
+            "Television Channels"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START138D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "12",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1265",
+          "rank": "5535",
+          "name": "Starters 138 Division 4 (Rated)",
+          "end_date": "2024-06-12 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Heat Wave",
+            "Long Drive",
+            "Distinct Substring"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START137D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "5",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1223",
+          "rank": "3992",
+          "name": "Starters 137 Division 4 (Rated)",
+          "end_date": "2024-06-05 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "Spell Splice",
+            "Large Differences",
+            "Election Hopes"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START136D",
+          "getyear": "2024",
+          "getmonth": "5",
+          "getday": "29",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1070",
+          "rank": "6095",
+          "name": "Starters 136 Division 4 (Rated)",
+          "end_date": "2024-05-29 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Even Sum Subarray",
+            "Who Makes P1"
+          ],
+          "noOfProblems": 2
+        }
+      ],
+      "problemsSolved": "231"
+    }
+  },
+  {
+    "rollno": "22501a1244",
+    "name": "Riteesh",
+    "leetcode": {
+      "username": "Riteesh17",
+      "data": {
+        "userContestRanking": {
+          "attendedContestsCount": 38,
+          "rating": 1196.1939742104005,
+          "globalRanking": 673377,
+          "totalParticipants": 678221,
+          "topPercentage": 99.3,
+          "badge": null
+        },
+        "userContestRankingHistory": [
+          {
+            "attended": true,
+            "rating": 1196.194,
+            "ranking": 18021,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4007,
+            "contest": {
+              "title": "Biweekly Contest 152",
+              "startTime": 1742049000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1195.854,
+            "ranking": 16788,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5013,
+            "contest": {
+              "title": "Weekly Contest 439",
+              "startTime": 1740882600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1187.275,
+            "ranking": 20392,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 2034,
+            "contest": {
+              "title": "Biweekly Contest 151",
+              "startTime": 1740839400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1187.944,
+            "ranking": 18570,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4834,
+            "contest": {
+              "title": "Weekly Contest 437",
+              "startTime": 1739673000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1181.295,
+            "ranking": 21414,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 2826,
+            "contest": {
+              "title": "Biweekly Contest 150",
+              "startTime": 1739629800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1172.075,
+            "ranking": 16075,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4877,
+            "contest": {
+              "title": "Weekly Contest 436",
+              "startTime": 1739068200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1154.218,
+            "ranking": 18323,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5194,
+            "contest": {
+              "title": "Weekly Contest 435",
+              "startTime": 1738463400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1157.199,
+            "ranking": 22544,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5190,
+            "contest": {
+              "title": "Biweekly Contest 149",
+              "startTime": 1738420200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1164.179,
+            "ranking": 15134,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 2013,
+            "contest": {
+              "title": "Weekly Contest 434",
+              "startTime": 1737858600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1139.172,
+            "ranking": 26167,
+            "trendDirection": "DOWN",
+            "problemsSolved": 0,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 0,
+            "contest": {
+              "title": "Weekly Contest 432",
+              "startTime": 1736649000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1169.893,
+            "ranking": 12318,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4613,
+            "contest": {
+              "title": "Weekly Contest 431",
+              "startTime": 1736044200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1151.075,
+            "ranking": 25715,
+            "trendDirection": "DOWN",
+            "problemsSolved": 0,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 0,
+            "contest": {
+              "title": "Biweekly Contest 147",
+              "startTime": 1736001000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1181.814,
+            "ranking": 13873,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4442,
+            "contest": {
+              "title": "Weekly Contest 430",
+              "startTime": 1735439400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1186.339,
+            "ranking": 14207,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5366,
+            "contest": {
+              "title": "Weekly Contest 429",
+              "startTime": 1734834600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1187.367,
+            "ranking": 24793,
+            "trendDirection": "DOWN",
+            "problemsSolved": 0,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 0,
+            "contest": {
+              "title": "Biweekly Contest 146",
+              "startTime": 1734791400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1218.826,
+            "ranking": 14901,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4904,
+            "contest": {
+              "title": "Weekly Contest 428",
+              "startTime": 1734229800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1226.149,
+            "ranking": 14225,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4852,
+            "contest": {
+              "title": "Weekly Contest 427",
+              "startTime": 1733625000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1235.501,
+            "ranking": 12586,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4570,
+            "contest": {
+              "title": "Biweekly Contest 145",
+              "startTime": 1733581800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1228.339,
+            "ranking": 14946,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4831,
+            "contest": {
+              "title": "Weekly Contest 426",
+              "startTime": 1733020200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1245.164,
+            "ranking": 13607,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4588,
+            "contest": {
+              "title": "Weekly Contest 425",
+              "startTime": 1732415400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1247.228,
+            "ranking": 17076,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4850,
+            "contest": {
+              "title": "Weekly Contest 422",
+              "startTime": 1730601000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1267.119,
+            "ranking": 14536,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4552,
+            "contest": {
+              "title": "Weekly Contest 419",
+              "startTime": 1728786600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1265.182,
+            "ranking": 17246,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4020,
+            "contest": {
+              "title": "Weekly Contest 418",
+              "startTime": 1728181800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1260.725,
+            "ranking": 21015,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4944,
+            "contest": {
+              "title": "Weekly Contest 417",
+              "startTime": 1727577000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1271.201,
+            "ranking": 13133,
+            "trendDirection": "UP",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 3572,
+            "contest": {
+              "title": "Biweekly Contest 140",
+              "startTime": 1727533800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1225.303,
+            "ranking": 21002,
+            "trendDirection": "UP",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 3736,
+            "contest": {
+              "title": "Weekly Contest 416",
+              "startTime": 1726972200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1222.151,
+            "ranking": 23323,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 3808,
+            "contest": {
+              "title": "Weekly Contest 415",
+              "startTime": 1726367400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1236.342,
+            "ranking": 24197,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 3264,
+            "contest": {
+              "title": "Biweekly Contest 139",
+              "startTime": 1726324200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1251.817,
+            "ranking": 23140,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4144,
+            "contest": {
+              "title": "Weekly Contest 413",
+              "startTime": 1725157800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1270.828,
+            "ranking": 23640,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5314,
+            "contest": {
+              "title": "Biweekly Contest 137",
+              "startTime": 1723905000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1287.669,
+            "ranking": 21366,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4584,
+            "contest": {
+              "title": "Weekly Contest 409",
+              "startTime": 1722738600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1307.068,
+            "ranking": 25990,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4220,
+            "contest": {
+              "title": "Biweekly Contest 136",
+              "startTime": 1722695400
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1326.059,
+            "ranking": 25595,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4922,
+            "contest": {
+              "title": "Weekly Contest 408",
+              "startTime": 1722133800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1357.043,
+            "ranking": 22138,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5379,
+            "contest": {
+              "title": "Biweekly Contest 135",
+              "startTime": 1721485800
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1382.808,
+            "ranking": 24557,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 2747,
+            "contest": {
+              "title": "Biweekly Contest 134",
+              "startTime": 1720276200
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1404.92,
+            "ranking": 23681,
+            "trendDirection": "DOWN",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 5239,
+            "contest": {
+              "title": "Biweekly Contest 133",
+              "startTime": 1719066600
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1425.566,
+            "ranking": 26725,
+            "trendDirection": "DOWN",
+            "problemsSolved": 1,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4318,
+            "contest": {
+              "title": "Weekly Contest 402",
+              "startTime": 1718505000
+            }
+          },
+          {
+            "attended": true,
+            "rating": 1479.135,
+            "ranking": 18070,
+            "trendDirection": "DOWN",
+            "problemsSolved": 2,
+            "totalProblems": 4,
+            "finishTimeInSeconds": 4431,
+            "contest": {
+              "title": "Weekly Contest 401",
+              "startTime": 1717900200
+            }
+          }
+        ],
+        "allQuestionsCount": [
+          {
+            "difficulty": "All",
+            "count": 3491
+          },
+          {
+            "difficulty": "Easy",
+            "count": 867
+          },
+          {
+            "difficulty": "Medium",
+            "count": 1813
+          },
+          {
+            "difficulty": "Hard",
+            "count": 811
+          }
+        ],
+        "matchedUser": {
+          "problemsSolvedBeatsStats": [
+            {
+              "difficulty": "Easy",
+              "percentage": 91.21
+            },
+            {
+              "difficulty": "Medium",
+              "percentage": 74.28
+            },
+            {
+              "difficulty": "Hard",
+              "percentage": 46.51
+            }
+          ],
+          "submitStatsGlobal": {
+            "acSubmissionNum": [
+              {
+                "difficulty": "All",
+                "count": 159
+              },
+              {
+                "difficulty": "Easy",
+                "count": 104
+              },
+              {
+                "difficulty": "Medium",
+                "count": 50
+              },
+              {
+                "difficulty": "Hard",
+                "count": 5
+              }
+            ]
+          }
+        }
+      }
+    },
+    "codeforces": {
+      "username": "riteesh17",
+      "submissions": [
+        {
+          "id": 305345782,
+          "contestId": 2065,
+          "creationTimeSeconds": 1739120383,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 2065,
+            "index": "B",
+            "name": "Skibidus and Ohio",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 2065,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1739111700
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 102400
+        },
+        {
+          "id": 305315497,
+          "contestId": 2065,
+          "creationTimeSeconds": 1739118093,
+          "relativeTimeSeconds": 6393,
+          "problem": {
+            "contestId": 2065,
+            "index": "A",
+            "name": "Skibidus and Amog'u",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "constructive algorithms",
+              "greedy",
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 2065,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1739111700
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 61,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 296722416,
+          "contestId": 2044,
+          "creationTimeSeconds": 1734279299,
+          "relativeTimeSeconds": 5999,
+          "problem": {
+            "contestId": 2044,
+            "index": "B",
+            "name": "Normal Problem",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 2044,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1734273300
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 61,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 296686983,
+          "contestId": 2044,
+          "creationTimeSeconds": 1734276750,
+          "relativeTimeSeconds": 3450,
+          "problem": {
+            "contestId": 2044,
+            "index": "A",
+            "name": "Easy Problem",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 2044,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1734273300
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 279625097,
+          "contestId": 2009,
+          "creationTimeSeconds": 1725380834,
+          "relativeTimeSeconds": 6734,
+          "problem": {
+            "contestId": 2009,
+            "index": "B",
+            "name": "osu!mania",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 2009,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1725374100
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 3,
+          "timeConsumedMillis": 77,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 279608375,
+          "contestId": 2009,
+          "creationTimeSeconds": 1725379285,
+          "relativeTimeSeconds": 5185,
+          "problem": {
+            "contestId": 2009,
+            "index": "A",
+            "name": "Minimize!",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 2009,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1725374100
+          },
+          "programmingLanguage": "C++17 (GCC 7-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 2,
+          "timeConsumedMillis": 62,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 274815042,
+          "contestId": 1999,
+          "creationTimeSeconds": 1722957520,
+          "relativeTimeSeconds": 2620,
+          "problem": {
+            "contestId": 1999,
+            "index": "A",
+            "name": "A+B Again?",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1999,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1722954900
+          },
+          "programmingLanguage": "C++14 (GCC 6-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 6,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 272807834,
+          "contestId": 1996,
+          "creationTimeSeconds": 1722008842,
+          "relativeTimeSeconds": 4342,
+          "problem": {
+            "contestId": 1996,
+            "index": "A",
+            "name": "Legs",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "binary search",
+              "math",
+              "ternary search"
+            ]
+          },
+          "author": {
+            "contestId": 1996,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1722004500
+          },
+          "programmingLanguage": "C++14 (GCC 6-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 61,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 267396169,
+          "contestId": 1982,
+          "creationTimeSeconds": 1719332326,
+          "relativeTimeSeconds": 6226,
+          "problem": {
+            "contestId": 1982,
+            "index": "A",
+            "name": "Soccer",
+            "type": "PROGRAMMING",
+            "points": 500,
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "implementation",
+              "math",
+              "sortings"
+            ]
+          },
+          "author": {
+            "contestId": 1982,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "room": 432,
+            "startTimeSeconds": 1719326100
+          },
+          "programmingLanguage": "C++14 (GCC 6-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 4,
+          "timeConsumedMillis": 93,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 267039317,
+          "contestId": 1986,
+          "creationTimeSeconds": 1719158305,
+          "relativeTimeSeconds": 4105,
+          "problem": {
+            "contestId": 1986,
+            "index": "A",
+            "name": "X Axis",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "geometry",
+              "math",
+              "sortings"
+            ]
+          },
+          "author": {
+            "contestId": 1986,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1719154200
+          },
+          "programmingLanguage": "C++14 (GCC 6-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 5,
+          "timeConsumedMillis": 62,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 265284961,
+          "contestId": 1985,
+          "creationTimeSeconds": 1718118481,
+          "relativeTimeSeconds": 1981,
+          "problem": {
+            "contestId": 1985,
+            "index": "A",
+            "name": "Creating Words",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation",
+              "strings"
+            ]
+          },
+          "author": {
+            "contestId": 1985,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "CONTESTANT",
+            "ghost": false,
+            "startTimeSeconds": 1718116500
+          },
+          "programmingLanguage": "C++14 (GCC 6-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 2,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 252347904,
+          "contestId": 1742,
+          "creationTimeSeconds": 1710872230,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 1742,
+            "index": "A",
+            "name": "Sum",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "implementation"
+            ]
+          },
+          "author": {
+            "contestId": 1742,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1665671700
+          },
+          "programmingLanguage": "C++14 (GCC 6-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 9,
+          "timeConsumedMillis": 46,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 252346788,
+          "contestId": 4,
+          "creationTimeSeconds": 1710871708,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 4,
+            "index": "A",
+            "name": "Watermelon",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "brute force",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 4,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1268395200
+          },
+          "programmingLanguage": "C++14 (GCC 6-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 20,
+          "timeConsumedMillis": 30,
+          "memoryConsumedBytes": 0
+        },
+        {
+          "id": 252345772,
+          "contestId": 1921,
+          "creationTimeSeconds": 1710871251,
+          "relativeTimeSeconds": 2147483647,
+          "problem": {
+            "contestId": 1921,
+            "index": "A",
+            "name": "Square",
+            "type": "PROGRAMMING",
+            "rating": 800,
+            "tags": [
+              "greedy",
+              "math"
+            ]
+          },
+          "author": {
+            "contestId": 1921,
+            "members": [
+              {
+                "handle": "riteesh17"
+              }
+            ],
+            "participantType": "PRACTICE",
+            "ghost": false,
+            "startTimeSeconds": 1705329300
+          },
+          "programmingLanguage": "C++14 (GCC 6-32)",
+          "verdict": "OK",
+          "testset": "TESTS",
+          "passedTestCount": 7,
+          "timeConsumedMillis": 15,
+          "memoryConsumedBytes": 0
+        }
+      ]
+    },
+    "codechef": {
+      "username": "Riteesh45",
+      "contests": [
+        {
+          "code": "START176D",
+          "getyear": "2025",
+          "getmonth": "3",
+          "getday": "5",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1069",
+          "rank": "14627",
+          "name": "Starters 176 (Rated)",
+          "end_date": "2025-03-05 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Clothing Store",
+            "Run for Fun"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START175D",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "26",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1055",
+          "rank": "17625",
+          "name": "Starters 175 (Rated)",
+          "end_date": "2025-02-26 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Assignment Due"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START173D",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "12",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1066",
+          "rank": "17461",
+          "name": "Starters 173 (Rated upto < 2700)",
+          "end_date": "2025-02-12 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "Time Penalty"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START172D",
+          "getyear": "2025",
+          "getmonth": "2",
+          "getday": "5",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1051",
+          "rank": "27877",
+          "name": "Starters 172 (Rated)",
+          "end_date": "2025-02-05 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Time Machine",
+            "Small Palindrome"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START171D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "29",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1065",
+          "rank": "24511",
+          "name": "Starters 171 (Rated)",
+          "end_date": "2025-01-29 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Squid Game - Piggy Bank"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START168D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "8",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1077",
+          "rank": "16450",
+          "name": "Starters 168 (Rated)",
+          "end_date": "2025-01-08 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "Can You Bench",
+            "Big Achiever"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START167D",
+          "getyear": "2025",
+          "getmonth": "1",
+          "getday": "1",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1077",
+          "rank": "19076",
+          "name": "Starters 167 (Rated)",
+          "end_date": "2025-01-01 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Happy New Year!"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START166D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "25",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1109",
+          "rank": "6392",
+          "name": "Starters 166 (Rated)",
+          "end_date": "2024-12-25 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Chefland Library",
+            "Christmas Gifts",
+            "Merry Christmas!"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START165D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "18",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1088",
+          "rank": "6369",
+          "name": "Starters 165 (Rated)",
+          "end_date": "2024-12-18 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Bulk Discount",
+            "Poster Perimeter",
+            "Christmas Cake"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START164D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "11",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1066",
+          "rank": "8719",
+          "name": "Starters 164 (Rated)",
+          "end_date": "2024-12-11 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "New-Pro Coder",
+            "Itz Simple"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START163D",
+          "getyear": "2024",
+          "getmonth": "12",
+          "getday": "4",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1056",
+          "rank": "9237",
+          "name": "Starters 163 (Rated)",
+          "end_date": "2024-12-04 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Chef and Socks"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START162D",
+          "getyear": "2024",
+          "getmonth": "11",
+          "getday": "27",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1051",
+          "rank": "10897",
+          "name": "Starters 162 (Rated)",
+          "end_date": "2024-11-27 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Calorie Intake",
+            "Assignment Score"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START161D",
+          "getyear": "2024",
+          "getmonth": "11",
+          "getday": "20",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1064",
+          "rank": "15636",
+          "name": "Starters 161 (Rated)",
+          "end_date": "2024-11-20 22:30:06",
+          "color": "#666666",
+          "problems": [
+            "Moneymaking"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START157D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "23",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1076",
+          "rank": "16883",
+          "name": "Starters 157 (Rated)",
+          "end_date": "2024-10-23 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Glass Prices"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START156D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "16",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1084",
+          "rank": "17562",
+          "name": "Starters 156 (Rated)",
+          "end_date": "2024-10-16 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Sweets Shop",
+            "Long Queue"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START155D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "9",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1068",
+          "rank": "20132",
+          "name": "Starters 155 (Rated)",
+          "end_date": "2024-10-09 22:00:04",
+          "color": "#666666",
+          "problems": [
+            "Chef and Parole",
+            "Rectangled"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START154D",
+          "getyear": "2024",
+          "getmonth": "10",
+          "getday": "2",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1074",
+          "rank": "10794",
+          "name": "Starters 154 (Rated)",
+          "end_date": "2024-10-02 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Coldplay Tickets",
+            "Calorie Limit",
+            "Add 1 or 2 Game"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START153D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "25",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1044",
+          "rank": "20863",
+          "name": "Starters 153 (Rated)",
+          "end_date": "2024-09-25 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "AI is Coming",
+            "Make Arithmetic Progression",
+            "Butterfly"
+          ],
+          "noOfProblems": 3
+        },
+        {
+          "code": "START152D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "18",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1036",
+          "rank": "28626",
+          "name": "Starters 152 (Rated)",
+          "end_date": "2024-09-18 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Chess Olympiad"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START151D",
+          "getyear": "2024",
+          "getmonth": "9",
+          "getday": "11",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1044",
+          "rank": "30122",
+          "name": "Starters 151 (rated)",
+          "end_date": "2024-09-11 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Weightlifting"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START149D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "28",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1078",
+          "rank": "17589",
+          "name": "Starters 149 (Rated)",
+          "end_date": "2024-08-28 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Magical World",
+            "Approximate Answer"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START148D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "21",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1069",
+          "rank": "21608",
+          "name": "Starters 148 Division 4 (Rated)",
+          "end_date": "2024-08-21 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Let Me Eat Cake!",
+            "Clearance Sale"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START147D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "14",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1074",
+          "rank": "16078",
+          "name": "Starters 147 Division 4 (Rated till 5 stars)",
+          "end_date": "2024-08-14 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Independence Day 101",
+            "Gold Coins 101"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START146D",
+          "getyear": "2024",
+          "getmonth": "8",
+          "getday": "7",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1072",
+          "rank": "16041",
+          "name": "Starters 146 Division 4 (Rated till 5 stars)",
+          "end_date": "2024-08-07 22:00:04",
+          "color": "#666666",
+          "problems": [
+            "Olympics 2024",
+            "No Winner"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START145D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "31",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1050",
+          "rank": "17973",
+          "name": "Starters 145 Division 4 (Rated)",
+          "end_date": "2024-07-31 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Volume Comparison",
+            "Gun Master"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START144D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "24",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1046",
+          "rank": "15583",
+          "name": "Starters 144 Division 4 (Rated)",
+          "end_date": "2024-07-24 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Capital Gain Tax",
+            "Savings Account"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START143D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "17",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1050",
+          "rank": "5934",
+          "name": "Starters 143 Division 4 (Rated)",
+          "end_date": "2024-07-17 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "International Justice Day",
+            "Maximum Coins"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START142D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "10",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "988",
+          "rank": "16657",
+          "name": "Starters 142 Division 4 (Rated)",
+          "end_date": "2024-07-10 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Writing Speed"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START141D",
+          "getyear": "2024",
+          "getmonth": "7",
+          "getday": "3",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "1018",
+          "rank": "10646",
+          "name": "Starters 141 Division 4 (Rated)",
+          "end_date": "2024-07-03 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Nearly Equal",
+            "Lucky Clover"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START140D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "26",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "976",
+          "rank": "12575",
+          "name": "Starters 140 Division 4 (Rated)",
+          "end_date": "2024-06-26 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Yoga Day",
+            "Yoga Class"
+          ],
+          "noOfProblems": 2
+        },
+        {
+          "code": "START139D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "19",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "934",
+          "rank": "13194",
+          "name": "Starters 139 Division 4 (Rated)",
+          "end_date": "2024-06-19 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Television Channels"
+          ],
+          "noOfProblems": 1
+        },
+        {
+          "code": "START138D",
+          "getyear": "2024",
+          "getmonth": "6",
+          "getday": "12",
+          "reason": null,
+          "penalised_in": null,
+          "rating": "898",
+          "rank": "12555",
+          "name": "Starters 138 Division 4 (Rated)",
+          "end_date": "2024-06-12 22:00:06",
+          "color": "#666666",
+          "problems": [
+            "Long Drive",
+            "Heat Wave"
+          ],
+          "noOfProblems": 2
+        }
+      ],
+      "problemsSolved": "80"
+    }
+  }
+]

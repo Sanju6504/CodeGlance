@@ -1,0 +1,116 @@
+/* General Reset */
+
+
+/* Main Container */
+.bubble-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+/* Central Bubble */
+.central {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background: #ff4757;
+    z-index: 2;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+/* Bubbles */
+.bubble {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: #007BFF;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: bold;
+    opacity: 0;
+    animation: emerge 2.5s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+/* Different Colors */
+.bubble1 { background: #ff6b6bd1; animation-delay: 0.5s; }
+.bubble2 { background: #a121e1ce; animation-delay: 0.7s; }
+.bubble3 { background: #1dd1a1d6; animation-delay: 0.6s; }
+.bubble4 { background: #06cdebd4; animation-delay: 0.8s; }
+
+/* Smooth Bubble Emerge Animation */
+@keyframes emerge {
+    0% { transform: scale(0) translate(0, 0); opacity: 0; }
+    50% { transform: scale(1.03) translate(0, 0); opacity: 0.7; } /* Soft overshoot */
+    100% { transform: scale(1) translate(var(--x), var(--y)); opacity: 1; }
+}
+
+/* Positioning the bubbles dynamically */
+.bubble1 { --x: -170px; --y: -170px; } /* Top-Left */
+.bubble2 { --x: 170px; --y: -200px; }  /* Top-Right */
+.bubble3 { --x: -170px; --y: 170px; }  /* Bottom-Left */
+.bubble4 { --x: 170px; --y: 180px; }   /* Bottom-Right */
+
+/* Floating Animations */
+@keyframes float1 {
+    0% { transform: translate(var(--x), var(--y)) translateY(0); }
+    50% { transform: translate(calc(var(--x) + 10px), calc(var(--y) - 6px)); }
+    100% { transform: translate(var(--x), var(--y)) translateY(0); }
+}
+
+@keyframes float2 {
+    0% { transform: translate(var(--x), var(--y)) translateY(0); }
+    50% { transform: translate(calc(var(--x) - 10px), calc(var(--y) + 8px)); }
+    100% { transform: translate(var(--x), var(--y)) translateY(0); }
+}
+
+@keyframes float3 {
+    0% { transform: translate(var(--x), var(--y)) translateY(0); }
+    50% { transform: translate(calc(var(--x) + 12px), calc(var(--y) - 7px)); }
+    100% { transform: translate(var(--x), var(--y)) translateY(0); }
+}
+
+@keyframes float4 {
+    0% { transform: translate(var(--x), var(--y)) translateY(0); }
+    50% { transform: translate(calc(var(--x) - 12px), calc(var(--y) + 7px)); }
+    100% { transform: translate(var(--x), var(--y)) translateY(0); }
+}
+
+/* Apply Floating Animation After Emergence */
+.bubble1 { animation: emerge 2.5s cubic-bezier(0.25, 1, 0.5, 1) forwards, float1 5s infinite ease-in-out 2.5s; }
+.bubble2 { animation: emerge 2.5s cubic-bezier(0.25, 1, 0.5, 1) forwards, float2 6s infinite ease-in-out 2.5s; }
+.bubble3 { animation: emerge 2.5s cubic-bezier(0.25, 1, 0.5, 1) forwards, float3 5.5s infinite ease-in-out 2.5s; }
+.bubble4 { animation: emerge 2.5s cubic-bezier(0.25, 1, 0.5, 1) forwards, float4 6.2s infinite ease-in-out 2.5s; }
+
+
+.cursor {
+    display: inline-block;
+    width: 8px;
+    animation: blink 1s infinite;
+  }
+  
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+  
+.cn {
+    font-size: 16px;
+    font-family: monospace;
+    text-align: center;
+}
+
+
